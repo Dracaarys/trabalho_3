@@ -22,6 +22,7 @@ def handle_tcp_connection(conn):
     conn.close()
 
 
+
 while True:
     conn, addr = tcp_socket.accept()
     print(f"Conexão TCP estabelecida com {addr[0]}:{addr[1]}")

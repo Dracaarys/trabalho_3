@@ -23,6 +23,7 @@ transfer_rates_udp = {}
 NUM_REPEATS = 100
 
 
+
 for data_size_bytes in data_sizes_bytes:
     
     data = b'x' * data_size_bytes # mensagem que vai ser enviada 

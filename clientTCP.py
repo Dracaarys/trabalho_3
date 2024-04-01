@@ -71,4 +71,5 @@ plt.title('Tempo de Execução TCP para Diferentes Tamanhos de Dados')
 plt.show()
 
 
+
 # MUDEI O CODIGO PARA PEGAR O TEMPO E VER OUTROS GRAFICOS. A TAXA DE TRANSFERENCIA ESTA NA IMAGEM E NO TERMINAL.

@@ -17,4 +17,5 @@ def handle_udp_connection():
         print("Dados recebidos via UDP:", data.decode())
 
 
+
 handle_udp_connection()
